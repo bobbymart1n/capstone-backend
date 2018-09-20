@@ -1,4 +1,4 @@
-# Node/Express/Firestore API
+# Express/Firestore API
 A backend project **09.20.2018**
 
 ## By Bobby Martin
@@ -13,7 +13,6 @@ This project is built to host the content of shareable data from my Epicodus cap
 * Test endpoints with CURL or POSTMAN
 
 ## Technology
-* Node
 * Express
 * TypeScript
 * Firestore
